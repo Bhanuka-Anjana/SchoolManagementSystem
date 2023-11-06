@@ -1,4 +1,4 @@
-﻿using System;
+﻿
 namespace StudentAdmissionManagement
 {
     public class StudentAdmissionDetailsModel
