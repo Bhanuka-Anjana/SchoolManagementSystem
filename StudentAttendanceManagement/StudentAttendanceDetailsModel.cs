@@ -1,11 +1,9 @@
-﻿using System;
-namespace StudentAdmissionManagement
+﻿namespace StudentAttendanceManagement
 {
-    public class StudentAdmissionDetailsModel
+    public class StudentAttendanceDetailsModel
     {
         public int StudentID { get; set; }
         public string StudentName { get; set; }
-        public string StudentClass { get; set; }
-        public DateTime DateofJoining { get; set; }
+        public double AttendencePercentage { get; set; }
     }
 }
